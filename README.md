@@ -1,4 +1,4 @@
-# kaggle-Optiver Realized Volatility Prediction
+# kaggle日記
 ## 2021/08/17
 - [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction)に参加
 
